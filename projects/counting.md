@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/abc.jpg
+image: img/ABC-PNG-Isolated-Image.png
 title: "Counting characters"
 date: April 2022
 published: true
@@ -11,7 +11,7 @@ labels:
 summary: "Counting the number of occurrences of characters developed in ICS 212."
 ---
 
-<img class="img-fluid" src="../img/abc.jpg">
+<img class="img-fluid" src="../img/ABC-PNG-Isolated-Image.png">
 
 This was an independent assignment that takes some input (whether it be .txt format or manually typed into the command line) and counts the number of occurrences of the letters: 'a', 'b', and 'c'. I had to use the `getchar()` method that will take in the value of the next character from the input. 
 
