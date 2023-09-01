@@ -12,8 +12,6 @@ labels:
 ---
 <img width="200px" class="rounded float-start pe-4" src="../img/java_vs_js.png">
 
-*Javascript is magic*
-
 Please don't exit this page if you swear by TypeScript. This is solely my experience stepping into the world of website development where Javascript happens to be the language I'm using as an introduction to the field. Up until recently, I've been immersed in using Java and therefore accustomed to looking at lengthy references to some data.
 
 ## Coming from Java
