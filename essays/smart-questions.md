@@ -8,7 +8,7 @@ published: true
 labels:
   - StackOverflow
 ---
-<img width="200px" class="rounded float-start pe-4" src="../img/java_vs_js.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/question-clipart-transparent-4.png">
 
 Probably not. Unless you have been explicitly taught what components make up a “smart” question, it’s common to be asking questions that can be improved significantly for the asker and the asked. Eric Raymond’s, “How to ask questions the smart way,” provides a clear and reasonable concise guide to ensuring the next question you post online is in the form of a right one. Now, is this considered the “right” way of asking questions? It depends on the audience in which you are asking the question. When it comes to asking about scholarly content on an online source, it's best to post a question that experts in the field don't scoff at. 
 
