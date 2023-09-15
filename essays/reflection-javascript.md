@@ -9,7 +9,7 @@ labels:
   - Javascript
   - Reflection
 ---
-<img width="200px" class="rounded float-start pe-4" src="../img/java_vs_js.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/logo-javascript-icon-1024.png">
 
 ## Using FreeCodeCamp
 I enjoyed going through the FreeCodeCamp tutorial and found it really helpful to require that the user completes the activity before moving on to the next problem. I also appreciated the solution pages because they gave me more insight when it came to solving a problem in a different way. Going through these lessons allowed me to grasp an understanding of Javascript and ES6.
