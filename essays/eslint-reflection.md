@@ -9,7 +9,7 @@ labels:
   - ESLint
   - Reflection
 ---
-<img width="200px" class="rounded float-start pe-4" src="../img/eslint_errors.png">
+<img width="350px" class="rounded float-start pe-4" src="../img/eslint_errors.png">
 
 ## Importance of Coding Standards
 What if wrote this whole essay in a single line? No headers, no spacing between paragraphs, and no font differences. It would be really hard to tell where one paragraph starts and ends. My words will appear to be tangled together and reflect a "careless" attitude towards this piece of writing. Without enforcing any kind of format standard, readability would be negatively affected and this is applied to program writing as well. We have coding standards that allow for code to be structured in a way that a large population can easily read others' code. By providing standards, we are enforcing consistency and this is what keeps a project "neat." When a project is written with a consistent style, professionalism is practiced and enables readers to realize an aesthetic style that enables smooth reading. ESLint is a popular coding standard that ensures that the syntax resembles the basic style often showcased in beginner-level courses. For example, keeping a function's opening bracket on the same line as the function declaration and the closing bracket at the same indentation level some lines down. As argued once, coding standards can help in learning a new language. To learn anything new, at the very base of it, we must read about it. Being given material broken into sections, it is less overwhelming and gives clear distinctions between different topics. As with coding standards, we are able to focus on particular sections of the code because there are visible separations in place. 
