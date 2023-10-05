@@ -10,7 +10,7 @@ labels:
   - HTML/CSS
   - Reflection
 ---
-<img width="200px" class="rounded float-start pe-4" src="../img/java_vs_js.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/icons-hero.png">
 
 ## Why create a framework?
 There are many reasons why a framework may exist. However, it's widely agreed that frameworks are used with the intent of creating a universal and reusable software environment. With generic methods, this provides high flexibility for developers of all levels. I like to think of a framework as a "skeleton" that provides the support that developers need if they want to spend their time effectively. Moreover, they are able to spend more time thinking of their project's logical implementations rather than worrying about how to, in the web development sense, format the UI. Overall this means, I wouldn't need to worry about how to center my images using a lot of padding and margin customizations. 
