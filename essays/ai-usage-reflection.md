@@ -9,7 +9,7 @@ labels:
   - Artificial Intelligence
   - Reflection
 ---
-<img width="500px" class="rounded float-start pe-4" src="../img/ChatGPT.png">
+<img width="500px" class="rounded float-start pe-4" src="../img/ChatGPT.jpg">
 
 ## AI in Education
 Access to AI has become more convenient with sites such as ChatGPT providing the service in a simple user interface that can be used by anyone who can create an account. AI makes it possible to input an assignment's prompt and output a simplified solution by taking in information from numerous articles. It can sculpt its answer in a clarifying and simple tone if instructed to do so. This makes it revolutionary in the eyes of a student who may be uncertain about how to approach their homework. A knowledgeable tool that can comprehend the human language is a tutor for students and those looking to learn about a new subject. When it comes to Software Engineering, AI can write code in all languages and suggest solutions for debugging procedures. Although it has been argued whether or not AI can "take over" Software Engineering positions, I believe humans are still a necessity because AI requires a "supervisor" who can point out where the errors are in code. This is especially true in large-scale projects that require previous knowledge of the structure that may be too complex to transfer to an AI model.
