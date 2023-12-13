@@ -4,7 +4,7 @@ type: essay
 title: "Are you asking questions the right way?"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-06
-published: true
+published: false
 labels:
   - StackOverflow
 ---
