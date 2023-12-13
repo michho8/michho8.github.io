@@ -21,4 +21,4 @@ I was responsible for multiple components of this project. An example would be c
 
 This project allowed me to explore how object inheritance works and how we can create classes to solve issues such as implementing a specific sorted order. My partner and I used GitKraken as a way to easily and safely push up code which then allowed me to visualize the process of branch changes and collaborative coding.
 
-Source: <a href="https://github.com/ICSatKCC/assignment-9-f21-final-project-gui-g5-ashley-and-michelle"><i class="large github icon "></i>ics211-final</a>
+Source: <a href="https://github.com/ICSatKCC/assignment-9-f21-final-project-gui-g5-ashley-and-michelle"><i class="large github icon "></i>GitHub repo for Pokemon GUI</a>
