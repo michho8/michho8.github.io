@@ -25,4 +25,6 @@ I was responsible for implementing our "Related Article Links" feature. This is 
 
 This project allowed me to explore how to implement an AI model and a database into a project which involves key usages, article parsing, and database queries. This project also allowed me to further explore Meteor and React components to build the visual aspects of the page. My team and I used a GitHub project board as a way to easily and visually communicate to each other which tasks were being worked on. I was also able to practice my written communication skills in order to relay information without causing much confusion.
 
-Source: <a href="https://github.com/tryRebooting2023/askus"><i class="large github icon "></i>Github Repo for tryRebooting2023/askus</a>
+Source: <a href="https://github.com/tryRebooting2023/askus"><i class="large github icon"></i>Github Repo for tryRebooting2023/askus</a>
+
+Deployed site: <a href="https://askusits.site/">AskUs</a>
