@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/connectuni.png
+image: img/Logo.png
 title: "ConnectUni Mobile Application"
 date: December 2023
 published: true
