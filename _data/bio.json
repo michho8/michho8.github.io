@@ -20,12 +20,16 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript" ]
+      "name": "Languages",
+      "keywords": [ "C", "C++", "Dart", "HTML", "Java", "Javascript" ]
+    },
+    {
+      "name": "Frameworks",
+      "keywords": ["AngularJS", "Bootstrap", "Flutter", "Meteor", "React", "Springboot"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Windows", "Git/GitHub", "IntelliJ" ]
+      "keywords": ["CLI", "Git/GitHub", "IntelliJ", "Windows"]
     }
   ],
   "education": [
@@ -51,18 +55,21 @@
     {
       "company": "UH Manoa Board of Publications",
       "position": "Web App Developer",
-      "website": "",
+      "website": "https://www.hawaii.edu/its/uhgroupings/",
       "startDate": "2023-01-10",
       "endDate": "Present",
       "summary": "Team collaboration on the Groupings site, an open-source project for the UH community.",
       "highlights": [
-        "Contribute to select UH open source projects on GitHub",
-        "Write JUnit tests to increase code coverage",
-        "Implement user interface changes"
+         "Maintaining the Groupings website, an open-source project, writing in Java, Javascript, and HTML with the AngularJS and Bootstrap frameworks.",
+        "Using an external API (Grouper) to hydrate objects that correspond to different roles such as student and faculty.",
+        "Increased code coverage by 65% by switching to JUnit 5 for integration and unit testing."
       ]
     }
   ],
   "references": [
+    {
+      "Michael Hodges": "Available upon request"
+    },
     {
       "Lisa Miller": "Available upon request"
     }
