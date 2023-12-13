@@ -4,7 +4,7 @@ type: essay
 title: "First WOD and Dealing with Javascript"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-29
-published: true
+published: false
 labels:
   - Javascript
   - Reflection
