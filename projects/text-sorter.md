@@ -4,7 +4,7 @@ type: project
 image: img/english-japanese.png
 title: "Text Sorter"
 date: May 2022
-published: true
+published: false
 labels:
   - C++
   - Commandline
