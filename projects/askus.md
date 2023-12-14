@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/askus.png
+image: img/askus-small.png
 title: "Askus AI Chatbot"
 date: December 2023
 published: true
@@ -17,7 +17,7 @@ labels:
 summary: "An OpenAI chatbot intended to help answer questions for the University of Hawaii Information Technology Services (ITS) department."
 ---
 
-<img class="img-fluid" src="../img/askus.png">
+<img class="img-fluid" src="../img/askus-small.png">
 
 This project was created as a result of the prompt for the 2023 HACC University of Hawaii ITS department. The goal was to create an AI chatbot that allows users to conveniently ask their technical questions related to using any of the ITS products. We were given numerous articles that the ITS website has published and tasked to use the information to hydrate the AI with. We ended up choosing to use OpenAI, Pinecone (for the embeddings), and MongoDB. 
 
