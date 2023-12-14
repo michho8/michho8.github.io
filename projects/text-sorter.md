@@ -4,11 +4,11 @@ type: project
 image: img/english-japanese.png
 title: "Text Sorter"
 date: May 2022
-published: false
+published: true
 labels:
   - C++
   - Commandline
-summary: "Text sorter developed in ICS 212."
+summary: "Text sorter developed."
 ---
 
 <img class="img-fluid" src="../img/english-japanese.png">
@@ -17,4 +17,4 @@ This was an independent assignment that sorted the provided data text file based
 
 This project expanded my knowledge when it comes to accessing files with C++. There was also the necessity to write a friend function for the cout `<<` operator.
 
-Source: <a href="https://github.com/michho8/text-sorter"><i class="large github icon "></i>ics212-a26</a>
+Source: <a href="https://github.com/michho8/text-sorter"><i class="large github icon "></i>GitHub repo to text-sorter</a>
