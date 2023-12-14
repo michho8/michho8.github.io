@@ -4,7 +4,7 @@ type: project
 image: img/pokemon.png
 title: "Pokemon GUI"
 date: December 2021
-published: true
+published: false
 labels:
   - Java
   - jGRASP
