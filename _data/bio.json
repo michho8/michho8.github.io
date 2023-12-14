@@ -1,0 +1,77 @@
+{
+  "basics": {
+    "name": "Michelle Ho",
+    "label": "Student",
+    "picture": "https://github.com/michho8.png",
+    "email": "mh888@hawaii.edu",
+    "phone": "279-888-3669",
+    "website": "https://michho8.github.io",
+    "summary": "I am currently pursuing a B.S. in Computer Science at the University of Hawaii at Manoa. I expect to graduate in Fall, 2024.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "michho8", "url": "http://github.com/michho8" },
+      { "network": "linkedin", "username": "michelle-ho-4949a0262", "url": "http://linkedin.com/in/michelle-ho-4949a0262" }
+    ]
+  },
+  "interests": [
+    { "name": "Data Science" },
+    { "name": "Web Development" },
+    { "name": "Mobile App Development"}
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "keywords": [ "C", "C++", "Dart", "HTML", "Java", "Javascript" ]
+    },
+    {
+      "name": "Frameworks",
+      "keywords": ["AngularJS", "Bootstrap", "Flutter", "Meteor", "React", "Springboot"]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": ["CLI", "Git/GitHub", "IntelliJ", "Windows"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Fall, 2024)",
+      "studyType": "B.S.",
+      "startDate": "2022-08",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }, {
+      "institution": "Kapiolani Community College, Honolulu, HI",
+      "area": "Computer Science",
+      "studyType": "A.S.",
+      "startDate": "2020-08",
+      "endDate": "2023-05",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "UH Manoa Board of Publications",
+      "position": "Web App Developer",
+      "website": "https://www.hawaii.edu/its/uhgroupings/",
+      "startDate": "2023-01-10",
+      "endDate": "Present",
+      "summary": "Team collaboration on the Groupings site, an open-source project for the UH community.",
+      "highlights": [
+         "Maintaining the Groupings website, an open-source project, writing in Java, Javascript, and HTML with the AngularJS and Bootstrap frameworks.",
+        "Using an external API (Grouper) to hydrate objects that correspond to different roles such as student and faculty.",
+        "Increased code coverage by 65% by switching to JUnit 5 for integration and unit testing."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "Michael Hodges": "Available upon request"
+    },
+    {
+      "Lisa Miller": "Available upon request"
+    }
+  ]
+}
